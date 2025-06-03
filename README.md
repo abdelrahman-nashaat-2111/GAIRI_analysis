@@ -2,6 +2,7 @@
 **01_Data_Sources:**
 
 This folder contains the two primary source datasets that form the foundation of the GAIRI Analysis. These are the raw, original data files from which all subsequent data processing and analysis were derived. **The database consists of:**
+
 The GAIRI Analysis Project delves into the evolving landscape of Government AI Readiness, specifically comparing the progress and key trends observed in 2023 and 2024. This analysis is crucial, as governments globally are increasingly recognizing AI's transformative potential for public services, economic growth, and societal well-being.
 
 Government AI Readiness typically assesses a country's capacity to integrate and leverage AI technologies across various dimensions. Leading reports, such as those by Oxford Insights, often evaluate readiness across three core pillars:
